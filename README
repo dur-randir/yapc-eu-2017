@@ -1,1 +1,4 @@
 "On The Importance Of Rabbits" talk from YAPC::EU 2017
+
+What happens when you feed a program with garbage inputs? Is this always
+meaningless, or maybe even Perl language can benefit from it?
